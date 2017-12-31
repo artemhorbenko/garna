@@ -186,8 +186,29 @@ The following Post Formats are available for users to choose from Garna theme.
 * Audio - An audio file or playlist. Could be used for Podcasting.
 * Chat - A chat transcript, like so:
 
+## Functions
+* Theme Setup
+* Automatic Feed Links
+* Navigation Menus
+* Load Text Domain
+* Post Thumbnails
+* Post Formats
+* Initial Setup
+* Content Width
+...
+
+## Custom template tags
+* posted on
+* posted by
+* category snd tagged
+* feature image
+* posts navigation
+* archive navigation
+* breadcrumps
+
 ### Source:
 * https://help.market.envato.com/hc/en-us/articles/202500774-ThemeForest-General-File-Preparation-Guidelines
 * https://help.market.envato.com/hc/en-us/articles/202822450-WordPress-Theme-Submission-Requirements
 * https://developer.wordpress.org/themes/getting-started/
 * https://codex.wordpress.org/Theme_Development
+* https://github.com/Automattic/_s

@@ -44,6 +44,7 @@
     * content-search
     * content-decks
     * content-masonry
+  * Customizer
 * Site Footer
   * Footer Menu Nav
   * Footer Widgets Area

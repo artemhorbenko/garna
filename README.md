@@ -60,6 +60,7 @@ This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
 
+## Child Theme
 
 ##  Features
 * Site Header
@@ -125,6 +126,19 @@ Use it to make something cool, have fun, and share what you've learned with othe
   * Footer Widgets Area
   * Terms of Use & Copyright
   
+## Post types
+* Post (Post Type: ‘post’)
+* Page (Post Type: ‘page’)
+* Attachment (Post Type: ‘attachment’)
+* Revision (Post Type: ‘revision’)
+* Navigation menu (Post Type: ‘nav_menu_item’)
+
+### Custom post types
++ Projects
++ Team
++ Partners
++ Events
+
 
 ## Post Formats
 The following Post Formats are available for users to choose from Garna theme.

@@ -8,6 +8,19 @@
   * Header Search
   * Headere Socials Nav
 * Main content
+  * Typography
+    * Headings
+    * Text
+    * Blockquotes
+    * Lists
+    * Images
+    * Tables
+  * Components
+    * Breadcrumb
+    * Buttons
+    * Carousel / Slider
+    * List group
+    * Pagination
   * Templates
     * Home
     * About
@@ -37,6 +50,7 @@
     * Process
     * Contactform
     * Google Map
+    * Comments
   * template-parts
     * content-none
     * content

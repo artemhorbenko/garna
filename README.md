@@ -9,13 +9,16 @@
   * Headere Socials Nav
 * Main content
   * Templates
-    * Home page
+    * Home
     * About
     * Contacts
     * Typography
     * Projects Archive
-    * Posts Archive
-    * Search Page + Search Archive
+    * Page
+    * Single
+    * Archive
+    * Search
+    * 404
   * Layout
     * Full width
     * Full width 2 columns
@@ -34,6 +37,13 @@
     * Process
     * Contactform
     * Google Map
+  * template-parts
+    * content-none
+    * content
+    * content-page
+    * content-search
+    * content-decks
+    * content-masonry
 * Site Footer
   * Footer Menu Nav
   * Footer Widgets Area

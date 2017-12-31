@@ -10,12 +10,44 @@ Though not required, you may see additional files in a theme’s folder includin
 * JavaScript
 * Text files – usually license info, readme.txt instructions, and a changelog file
 
+
+## Files Structure
+assets (dir)
+      - css (dir)
+      - images (dir)
+      - js (dir)
+inc (dir)
+template-parts (dir)
+      - footer (dir)
+      - header (dir)
+      - navigation (dir)
+      - page (dir)
+      - post (dir)
+404.php
+archive.php
+comments.php
+footer.php
+front-page.php
+functions.php
+header.php
+index.php
+page.php
+README.txt
+rtl.css
+screenshot.png
+search.php
+searchform.php
+sidebar.php
+single.php
+style.css
+
+http://wphierarchy.com/  
+
 ## PHP Files and Structure
 * index.php - The main template file. It is required in all themes.
 * header.php for generating the site’s header
 * footer.php for generating the footer
 * sidebar.php for generating the sidebar
-
 * comments.php - The comments template.
 * front-page.php - The front page template is always used as the site front page if it exists, regardless of what settings on Admin > Settings > Reading.
 * home.php - The home page template is the front page by default. If you do not set WordPress to use a static front page, this template is used to show latest posts.
@@ -112,6 +144,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
     * Process
     * Contactform
     * Google Map
+    * Google Calendar
     * Comments
   * template-parts
     * content-none
